@@ -1,0 +1,741 @@
+airfield
+airplane cabin
+airport
+airport terminal
+alcove
+alley
+amphitheater
+amusement arcade
+amusement park
+apartment
+apartment building
+aquarium
+aqueduct
+arcade
+arch
+archaelogical excavation
+archive
+arena
+army base
+art gallery
+art school
+art studio
+artists loft
+asia
+assembly line
+athletic field
+atrium
+attic
+auditorium
+auto factory
+auto showroom
+badlands
+bakery
+balcony
+ball pit
+ballroom
+bamboo forest
+bank
+bank vault
+banquet
+banquet hall
+bar
+barn
+barndoor
+baseball
+baseball field
+basement
+basketball court
+bathroom
+bazaar
+beach
+beach house
+beauty salon
+bedchamber
+bedroom
+beer garden
+beer hall
+berth
+biology laboratory
+boardwalk
+boat deck
+boathouse
+bookstore
+booth
+botanical garden
+bow window
+bowling alley
+boxing ring
+bridge
+broadleaf
+building facade
+bullring
+burial chamber
+bus interior
+bus station
+butchers shop
+butte
+cabin
+cafeteria
+campsite
+campus
+canal
+candy store
+canyon
+car interior
+carrousel
+castle
+catacomb
+cemetery
+chalet
+chemistry lab
+childs room
+church
+classroom
+clean room
+cliff
+closet
+clothing store
+coast
+cockpit
+coffee shop
+computer room
+conference
+conference center
+conference room
+construction site
+corn field
+corral
+corridor
+cottage
+court
+courthouse
+courtyard
+creek
+crevasse
+crosswalk
+cubicles
+cultivated
+dam
+delicatessen
+department store
+desert
+desert road
+diner
+dining hall
+dining room
+discotheque
+dock
+door
+doorway
+dorm
+dorm room
+downtown
+dressing room
+driveway
+drugstore
+elevator
+elevator lobby
+elevator shaft
+embassy
+engine room
+entrance
+entrance hall
+escalator
+excavation
+exterior
+fabric store
+factory
+farm
+fastfood restaurant
+field
+field road
+fire escape
+fire station
+fishpond
+flea market
+florist shop
+food court
+football
+football field
+forest
+forest path
+forest road
+formal garden
+fountain
+gallery
+galley
+garage
+gas station
+gazebo
+general store
+gift shop
+glacier
+golf course
+greenhouse
+grotto
+gym
+gymnasium
+hangar
+harbor
+hardware store
+hayfield
+heliport
+highway
+hockey
+hole
+home office
+home theater
+hospital
+hospital room
+hostel
+hot spring
+hotel
+hotel room
+house
+hunting lodge
+ice cream parlor
+ice floe
+ice shelf
+ice skating rink
+iceberg
+igloo
+indoor
+industrial area
+inn
+interior
+islet
+jacuzzi
+jail
+jail cell
+japanese garden
+jewelry shop
+junkyard
+kasbah
+kennel
+kindergarden
+kindergarden classroom
+kitchen
+lab
+laboratory
+lagoon
+lake
+landfill
+landing deck
+laundromat
+lawn
+lecture room
+legislative chamber
+library
+lighthouse
+living room
+loading dock
+lobby
+lock chamber
+locker room
+loft
+mall
+mansion
+manufactured home
+market
+marsh
+martial arts gym
+mausoleum
+medina
+mezzanine
+moat
+mosque
+motel
+mountain
+mountain path
+mountain snowy
+movie theater
+museum
+music studio
+natural
+natural history museum
+nursery
+nursing home
+oast house
+ocean
+ocean deep
+office
+office building
+office cubicles
+oilrig
+operating room
+orchard
+orchestra pit
+outdoor
+pagoda
+palace
+pantry
+park
+parking garage
+parking lot
+pasture
+patio
+pavilion
+performance
+pet shop
+pharmacy
+phone booth
+physics laboratory
+picnic area
+pier
+pizzeria
+platform
+playground
+playroom
+plaza
+pond
+porch
+promenade
+pub
+public
+racecourse
+raceway
+raft
+railroad track
+rainforest
+reception
+recreation room
+repair shop
+residential
+residential neighborhood
+resort
+restaurant
+restaurant kitchen
+restaurant patio
+rice paddy
+river
+rock arch
+rodeo
+roof garden
+room
+rope bridge
+ruin
+runway
+salon
+sand
+sandbox
+sauna
+school
+schoolhouse
+science museum
+server room
+shed
+shoe shop
+shop
+shopfront
+shopping mall
+shower
+showroom
+skating
+ski resort
+ski slope
+sky
+skyscraper
+slum
+snowfield
+soccer
+soccer field
+stable
+stadium
+stage
+staircase
+station
+storage room
+store
+street
+studio
+subway station
+supermarket
+sushi bar
+swamp
+swimming hole
+swimming pool
+synagogue
+television room
+television studio
+temple
+terminal
+theater
+throne room
+ticket booth
+topiary garden
+tower
+toyshop
+train interior
+train station
+tree farm
+tree house
+trench
+tundra
+underwater
+urban
+utility room
+valley
+vegetable garden
+vegetation
+veterinarians office
+viaduct
+village
+vineyard
+volcano
+volleyball court
+waiting room
+water
+water park
+water tower
+waterfall
+watering hole
+wave
+wet bar
+wheat field
+wild
+wind farm
+windmill
+yard
+youth hostel
+zen garden
+
+
+
+
+
+
+
+
+
+
+
+
+
+chair
+cabinet
+table
+door
+desk
+window
+sofa
+sink
+picture
+bed
+bookshelf
+curtain
+refrigerator
+shower curtain
+bathtub
+
+trash can
+pillow
+monitor
+shelf
+towel
+lamp
+radiator
+whiteboard
+nightstand
+stool
+recycling bin
+dresser
+keyboard
+tv
+microwave
+computer tower
+toilet paper
+paper towel dispenser
+ottoman
+printer
+copier
+suitcase
+stove
+laptop
+bench
+soap dispenser
+backpack
+tv stand
+storage bin
+seat
+
+room
+
+fridge
+toilet
+bin
+couch
+bath
+trash_can
+coffee_table
+guitar
+wall
+soap_dispenser
+bathroom_stall_door
+basin
+toilet_paper
+shower_curtain
+toaster_oven
+oven
+toaster
+bathroom
+can
+bike
+kitchen
+dish
+bar
+counter
+paper_towel_dispenser
+cart
+mirror
+object
+kitchen_counter
+arm chair
+night stand
+tv stand
+tv_stand
+bar stools
+nightstand
+
+
+kitchen_cabinets
+armchair
+shoe
+bag
+coffee_maker
+storage_bin
+sign
+cabinets
+water_cooler
+bucket
+sofa_chair
+speaker
+file_cabinet
+box
+fan
+computer_tower
+recycling_bin
+board
+toilet_paper_holder
+bathroom_cabinet
+storage_container
+mini_fridge
+case
+blanket
+elliptical_machine
+laundry_basket
+storage_box
+battery_disposal_jar
+paper_tray
+paper_cutter
+trash_bin
+round_table
+piano
+piano_bench
+heater
+music_stand
+footstool
+scale
+cup
+bathroom_vanity
+end_table
+cushion
+office_chair
+light
+kitchen_cabinet
+dining_table
+dishwasher
+closet
+jacket
+tissue_box
+closet_door
+ball
+drawer
+shower_door
+ladder
+crate
+carseat
+dolly
+golf_bag
+closet_doors
+container
+telephone
+water_fountain
+machine
+step_stool
+flower_stand
+toilet_seat_cover_dispenser
+toilet_paper_dispenser
+coffee_box
+fire_extinguisher
+traffic_cone
+basket
+wardrobe_closet
+hamper
+mouse
+urinal
+storage_shelf
+guitar_case
+laundry_hamper
+hat
+chest
+jar
+trunk
+soap
+dish_rack
+breakfast_bar
+furniture
+decoration
+folded_chair
+rack
+cardboard
+footrest
+pool_table
+foosball_table
+rope
+shower
+easel
+statue
+shower_curtain_rod
+mat
+keyboard_piano
+painting
+shorts
+podium
+carpet
+trolley
+tray
+folded_table
+calendar
+bulletin_board
+stand
+blackboard
+air_hockey_table
+flowerpot
+food_display
+paper_towel_roll
+clothes_dryer
+washing_machine
+couch_cushions
+clock
+rug
+hand_towel
+wardrobe_cabinet
+bunk_bed
+bathroom_counter
+dispenser
+toiletry
+storage_organizer
+pillows
+remote
+projector
+plate
+plastic_bin
+bookshelves
+tube
+block
+notepad
+briefcase
+electric_panel
+plunger
+water_bottle
+messenger_bag
+plastic_container
+boiler
+pantry_shelf
+laundry_detergent
+flag
+wall_hanging
+exercise_machine
+treadmill
+toolbox
+faucet
+soap_dish
+bathrobe
+projector_screen
+stack_of_chairs
+vent
+doors
+ping_pong_table
+bottle
+kitchen_island
+sofa_bed
+hand_dryer
+washing_machines
+loft_bed
+workbench
+folded_ladder
+compost_bin
+cabinet_door
+shredder
+scanner
+trash_cabinet
+clothes_dryers
+vending_machine
+toilet_paper_package
+massage_chair
+bicycle
+umbrella
+car
+blinds
+boat
+dishwashing_soap_bottle
+futon
+pipe
+hanging
+clothing
+organizer
+
+
+
+
+
+
+failed object
+office chair
+floor
+bedroom
+computer desk
+tv cabinet
+room area
+tan table
+coffee table
+bar stool
+bedroom area
+washbasin
+bathroom sink
+livingroom
+counter top
+ceiling
+entertainment center
+desk chair
+end table
+leather sofa
+lounge chair
+love seat
+tea table
+grey picture
+burgundy couch
+living room
+side table
+coffee maker
+table set
+orange rug
+picture frame
+frame picture
+coffee pot
+fireplace
+storage cube
+file cabinet
+storage cabinet
+garbage bin
+brown bin
+frame
+round table
+glass window
+work desk
+orange chair
+tv table
+refrigerator set
+kitchen cabinet
+water cooler

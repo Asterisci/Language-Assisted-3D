@@ -1,0 +1,74 @@
+cabinet
+table
+tv
+curtain
+desk
+toilet
+fridge
+trashcan
+bin
+shelf
+bookshelf
+bathroom
+office chair
+door
+microwave
+coffee table
+couch
+bed
+window
+pillow
+refrigerator
+picture
+sink
+stool
+nightstand
+chair
+ottoman
+counter
+kitchen cabinet
+armchair
+end table
+backpack
+bag
+tv stand
+rack
+storage bin
+seat
+recycling bin
+radiator
+printer
+file cabinet
+container
+round table
+sofa
+soap dispenser
+towel dispenser
+bench
+mirror
+lamp
+suitcase
+dresser
+bucket
+sofa chair
+monitor
+box
+laptop
+computer monitor
+drawer
+bathroom cabinet
+shower curtain
+basket
+keyboard
+plant
+whiteboard
+trash bin
+copier
+towel
+bathtub
+toilet paper
+bathroom vanity
+kitchen counter
+closet
+hamper
+stove

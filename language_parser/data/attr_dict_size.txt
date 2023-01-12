@@ -1,0 +1,8 @@
+small 0
+large 1
+long 2
+tall 3
+mini 4
+middle 5
+big 6
+short 7

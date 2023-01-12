@@ -1,0 +1,7 @@
+rectangular 0
+round 1
+square 2
+curve 3
+circular 4
+cylindrical 5
+flat 6

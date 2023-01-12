@@ -1,0 +1,64 @@
+chair 0
+cabinet 1
+table 2
+door 3
+desk 4
+seat 5
+bed 6
+sofa 7
+sink 8
+window 9
+picture 10
+bookshelf 11
+shower curtain 12
+refrigerator 13
+curtain 14
+bathtub 15
+trash can 16
+pillow 17
+monitor 18
+shelf 19
+towel 20
+lamp 21
+radiator 22
+whiteboard 23
+nightstand 24
+stool 25
+recycling bin 26
+dresser 27
+keyboard 28
+microwave 29
+computer tower 30
+toilet paper 31
+paper towel dispenser 32
+ottoman 33
+printer 34
+copier 35
+suitcase 36
+stove 37
+laptop 38
+bench 39
+soap dispenser 40
+backpack 41
+tv stand 42
+tv 43
+storage bin 44
+couch 45
+counter 46
+bag 47
+rack 48
+container 49
+mirror 50
+bucket 51
+box 52
+drawer 53
+basket 54
+plant 55
+trash bin 56
+bathroom vanity 57
+closet 58
+hamper 59
+toilet 60
+bin 61
+fridge 62
+bathroom 63
