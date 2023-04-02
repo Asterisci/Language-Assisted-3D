@@ -1,2 +1,6 @@
 *.json
 __pycache__
+glove.p
+
+outputs/
+build/
